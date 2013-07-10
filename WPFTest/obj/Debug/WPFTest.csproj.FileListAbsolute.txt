@@ -1,0 +1,6 @@
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\bin\Debug\WPFTest.exe.config
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\bin\Debug\WPFTest.exe
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\bin\Debug\WPFTest.pdb
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\obj\Debug\WPFTest.csprojResolveAssemblyReference.cache
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\obj\Debug\WPFTest.exe
+c:\users\marchansen\workspace\Projects\WPFTest\WPFTest\obj\Debug\WPFTest.pdb

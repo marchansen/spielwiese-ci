@@ -1,0 +1,7 @@
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\bin\Debug\Test.dll
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\bin\Debug\Test.pdb
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\bin\Debug\nunit.framework.dll
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\bin\Debug\nunit.framework.xml
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\obj\Debug\Test.dll
+C:\Users\marchansen\workspace\Projects\WPFTest\Test\obj\Debug\Test.pdb
